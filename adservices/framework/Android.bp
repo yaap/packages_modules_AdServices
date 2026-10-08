@@ -100,6 +100,7 @@ java_library {
     visibility: [
         "//device/google:__subpackages__",
         "//external/chromium-webview:__subpackages__",
+        "//external/vanadium:__subpackages__",
         "//packages/modules/AdServices:__subpackages__",
         "//packages/modules/ExtServices:__subpackages__",
         "//vendor:__subpackages__",
